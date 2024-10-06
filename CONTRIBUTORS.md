@@ -1,3 +1,8 @@
+#### Name: Sajan Sharma
+ - Place: Bihar, India
+ - Bio: I like playing chess.
+ - GitHub: [Sajansharma0017](https://github.com/Sajansharma0017)
+   
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
